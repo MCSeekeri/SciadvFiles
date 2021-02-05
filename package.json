@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "webp-batch-convert": "^0.1.0"
+  },
+  "name": "sciadvfiles",
+  "description": "科学ADV图书馆加速CDN",
+  "version": "1.0.1",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCSeekeri/SciadvFiles.git"
+  },
+  "author": "MCSeekeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCSeekeri/SciadvFiles/issues"
+  },
+  "homepage": "https://github.com/MCSeekeri/SciadvFiles#readme"
+}
