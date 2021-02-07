@@ -4,7 +4,7 @@
   },
   "name": "sciadvfiles",
   "description": "科学ADV图书馆加速CDN",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "js.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
