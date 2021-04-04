@@ -1,9 +1,11 @@
 //import convert from 'webp-batch-convert';
 const convert = require('webp-batch-convert');
+let res;
 
-// ½« img Ä¿Â¼ÏÂµÄËùÓĞÍ¼Æ¬×ª»»Îª webp ÎÄ¼ş£¬Êä³öÖÁ webp Ä¿Â¼
-const res = convert.cwebp('./zip/','./zip/', {
-    quiet: true, // ²»Êä³öÏêÇé
-    q: 75        // ÖÊÁ¿
-});
+// å°† img ç›®å½•ä¸‹çš„æ‰€æœ‰å›¾ç‰‡è½¬æ¢ä¸º webp æ–‡ä»¶ï¼Œè¾“å‡ºè‡³ webp ç›®å½•
+const cwebpOpts = {
+    quiet: true, // ä¸è¾“å‡ºè¯¦æƒ…
+    q: 75 // è´¨é‡
+};
+res = convert.cwebp('./pic','./webp', cwebpOpts);
 console.log('total: ', res);
