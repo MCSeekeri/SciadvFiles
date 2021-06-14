@@ -1,7 +1,5 @@
 {
-  "devDependencies": {
-    "webp-batch-convert": "^0.1.0"
-  },
+  
   "name": "sciadvfiles",
   "description": "科学ADV图书馆加速CDN",
   "version": "1.1.0",
