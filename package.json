@@ -64,7 +64,7 @@
     "filenamify": "^2.1.0",
     "get-proxy": "^2.1.0",
     "find-versions": "^3.2.0",
-    "got": "^7.1.0",
+    "got": "^11.8.5",
     "from2": "^2.3.0",
     "get-stream": "^2.3.1",
     "graceful-fs": "^4.2.9",
