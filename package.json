@@ -57,7 +57,7 @@
     "execa": "^0.7.0",
     "ext-name": "^5.0.0",
     "executable": "^4.1.1",
-    "file-type": "^5.2.0",
+    "file-type": "^16.5.4",
     "fd-slicer": "^1.1.0",
     "ext-list": "^2.2.2",
     "filename-reserved-regex": "^2.0.0",
