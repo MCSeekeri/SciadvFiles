@@ -1,5 +1,5 @@
 # SciadvFiles
-科学ADV图书馆加速CDN
+科学 ADV 图书馆加速 CDN
 
-科学ADV图书馆官网
-https://sciadv.mcseekeri.top
+科学 ADV 图书馆官网
+https://lib.sci-adv.cc
